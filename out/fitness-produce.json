@@ -1,0 +1,9 @@
+{
+  "df": "df-162",
+  "ts": "2026-06-09T10:41:53.053145+00:00",
+  "ok": false,
+  "provider": "codex",
+  "bytes": 0,
+  "duration_s": 180.0,
+  "error": "timeout"
+}
