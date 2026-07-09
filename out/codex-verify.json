@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test nutzt echte Onboarding-Daten mit abgeschlossenem und bewusst unvollständigem Gegenfall und prüft daraus berechnete Metriken samt Nicht-Auto-Vervollständigung statt nur Mocks oder Konstanten zu spiegeln.",
+  "ts": "2026-07-08T15:08:16.524947+00:00"
+}
