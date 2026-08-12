@@ -1,0 +1,22 @@
+{
+  "k17_pre_action_verification": {
+    "ok": true,
+    "missing_anchors": [],
+    "env_tag": "mock"
+  },
+  "tracker_output": {
+    "welle": "25",
+    "df": "DF-162",
+    "iso_timestamp": "2026-08-11T17:38:12.357387+00:00",
+    "source": "mock",
+    "active_onboardings": 14,
+    "average_onboarding_days": 18.5,
+    "completion_rate_pct": 82.0,
+    "drop_off_phase": "equipment_setup",
+    "top_blockers": [
+      "account_access",
+      "device_delivery",
+      "manager_intro"
+    ]
+  }
+}
